@@ -1,0 +1,25 @@
+{
+  "title": "Word Counter",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Enter the text",
+      "description": "Type or paste the text in which you want to count words."
+    },
+    {
+      "step": 2,
+      "title": "Enter the search word",
+      "description": "Input the word you want to count occurrences for."
+    },
+    {
+      "step": 3,
+      "title": "Use case-sensitive matching",
+      "description": "Choose whether to match the search word with the exact case or not."
+    },
+    {
+      "step": 4,
+      "title": "Click 'Count'",
+      "description": "After entering the text and search word, click the 'Count' button to find the word occurrences."
+    }
+  ]
+}

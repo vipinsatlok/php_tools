@@ -1,0 +1,20 @@
+{
+  "title": "Ipsum Generator",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Enter word length",
+      "description": "Specify the number of words you want in the generated ipsum text."
+    },
+    {
+      "step": 2,
+      "title": "Click 'Generate'",
+      "description": "After entering the word length, click the 'Generate' button to create the ipsum text."
+    },
+    {
+      "step": 3,
+      "title": "Copy texts",
+      "description": "Once the ipsum text is generated, you can copy it to your clipboard for use."
+    }
+  ]
+}

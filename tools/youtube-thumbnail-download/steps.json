@@ -1,0 +1,25 @@
+{
+  "title": "Youtube Thumbnail Download",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Enter the YouTube video link",
+      "description": "Provide the URL of the YouTube video you want to generate the thumbnail for."
+    },
+    {
+      "step": 2,
+      "title": "Select thumbnail quality",
+      "description": "Choose the desired thumbnail quality from the available options (High, Medium, Low)."
+    },
+    {
+      "step": 3,
+      "title": "Click 'Generate' button",
+      "description": "After selecting the thumbnail quality, click the 'Generate' button to create the thumbnail."
+    },
+    {
+      "step": 4,
+      "title": "Download the thumbnail",
+      "description": "Once the thumbnail is generated, it will be displayed, and you can download it by clicking the 'Download' button."
+    }
+  ]
+}

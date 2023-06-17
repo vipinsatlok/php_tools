@@ -1,0 +1,20 @@
+{
+  "title": "Age Calculator",
+  "steps": [
+    {
+      "step": 1,
+      "title": "Enter Birth Date",
+      "description": "Input the date of birth for which you want to calculate the age."
+    },
+    {
+      "step": 2,
+      "title": "Enter End Date",
+      "description": "Input the end date or today's date to calculate the age up to."
+    },
+    {
+      "step": 3,
+      "title": "Click 'Calculate'",
+      "description": "After entering the birth date and end date, click the 'Calculate' button to determine the age."
+    }
+  ]
+}
